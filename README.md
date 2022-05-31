@@ -1,5 +1,5 @@
-# dio-desafio-git-github
-Desafio de Projeto GitHub
+# PRIMEIRO DESAFIO DE PROJETO DIO
+Desafio GIT/GITHUB
 
 ## MEU PRIMEIRO REPOSITÓRIO
 
