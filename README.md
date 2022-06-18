@@ -1,6 +1,4 @@
-# PRIMEIRO DESAFIO DE PROJETO DIO
-Desafio GIT/GITHUB
+# DESAFIOS DE PROJETOS
+.....
 
-## MEU PRIMEIRO REPOSITÓRIO
 
-https://github.com/samyrafariass/dio-desafio-git-github/edit/main/README.md
