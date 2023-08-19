@@ -1,7 +1,7 @@
-# DESAFIOS DE PROJETOS
-Meus projetos
+# Novidades em breve!
+Fica ligado(a) aqui, visse?!
 
-# DESAFIOS DE CÓDIGOS
-Meus códigos
+# Vamo que vamo!
+Meus códigos...
 
 
