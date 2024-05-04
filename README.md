@@ -1,7 +1,4 @@
-# Novidades em breve!
-Fica ligado(a) aqui, visse?!
-
-# Vamo que vamo!
+# CÓDIGOS/DESAFIOS DIO - PYTHON
 Meus códigos...
 
 
